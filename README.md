@@ -92,6 +92,6 @@ Default keymap
 
 The default keymap is shown in the image below:
 
-![Onyx-layout](./Assets/keymap-diagram.svg)
+![Onyx-layout](./assets/keymap-diagram.svg)
 
 
