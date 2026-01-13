@@ -20,24 +20,24 @@
 ---
 
 # No OLED
-# include:
-#   - board: nice_nano_v2
-#     shield: onyx_left
-#     snippet: studio-rpc-usb-uart
-#   - board: nice_nano_v2
-#     shield: onyx_right
-#   - board: nice_nano_v2
-#     shield: settings_reset
-
-# For nice view 
 include:
   - board: nice_nano_v2
-    shield: onyx_left custom_nice_view_adapter nice_view_custom
+    shield: onyx_left
     snippet: studio-rpc-usb-uart
   - board: nice_nano_v2
-    shield: onyx_right custom_nice_view_adapter nice_view_custom
+    shield: onyx_right
   - board: nice_nano_v2
     shield: settings_reset
+
+# For nice view 
+# include:
+#   - board: nice_nano_v2
+#     shield: onyx_left custom_nice_view_adapter nice_view_custom
+#     snippet: studio-rpc-usb-uart
+#   - board: nice_nano_v2
+#     shield: onyx_right custom_nice_view_adapter nice_view_custom
+#   - board: nice_nano_v2
+#     shield: settings_reset
 
 # For OLED
 # include:
