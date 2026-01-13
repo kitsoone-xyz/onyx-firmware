@@ -1,0 +1,16 @@
+file_format: "1"
+id: onyx
+name: Onyx
+type: shield
+url: https://github.com/andrewscodes/zmk-onyx-module?tab=readme-ov-file
+requires: [pro_micro]
+exposes: [i2c_oled]
+features:
+  - keys
+  - display
+  - encoder
+  - underglow
+  - studio
+siblings:
+  - onyx_left
+  - onyx_right

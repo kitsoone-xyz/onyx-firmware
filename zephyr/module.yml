@@ -1,0 +1,4 @@
+name: zmk-keyboard-onyx
+build:
+  settings:
+    board_root: .
