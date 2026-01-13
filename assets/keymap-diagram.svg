@@ -9,6 +9,9 @@
    sodipodi:docname="keymap-diagram.svg"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
    xml:space="preserve"
+   inkscape:export-filename="keymap-diagram1.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -22,15 +25,23 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.7639025"
-     inkscape:cx="350.83011"
-     inkscape:cy="1033.5089"
+     inkscape:zoom="0.54016064"
+     inkscape:cx="470.23049"
+     inkscape:cy="732.1896"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-y="1072"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g130" /><style
+     inkscape:current-layer="g134"
+     inkscape:export-bgcolor="#ffffffff"><inkscape:page
+       x="0"
+       y="0"
+       width="963"
+       height="1494"
+       id="page2"
+       margin="0"
+       bleed="0" /></sodipodi:namedview><style
      id="style1">/* inherit to force styles through use tags */
 svg path {
     fill: inherit;
@@ -155,17 +166,18 @@ path.combo {
     visibility: hidden;
 }
 /* End Tabler Icons Cleanup */
-</style><g
-     transform="translate(30, 0)"
+</style>
+<rect width="100%" height="100%" fill="white" /><g
+     transform="translate(30)"
      class="layer-BASE"
      id="g63"><text
        x="0"
        y="28"
        class="label"
        id="BASE">BASE:</text><g
-       transform="translate(0, 56)"
+       transform="translate(0,56)"
        id="g62"><g
-         transform="translate(28, 28)"
+         transform="translate(28,28)"
          class="key keypos-0"
          id="g1"><rect
            rx="6"
@@ -180,7 +192,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text1">ESC</text></g><g
-         transform="translate(84, 28)"
+         transform="translate(84,28)"
          class="key keypos-1"
          id="g2"><rect
            rx="6"
@@ -195,7 +207,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text2">1</text></g><g
-         transform="translate(140, 28)"
+         transform="translate(140,28)"
          class="key keypos-2"
          id="g3"><rect
            rx="6"
@@ -210,7 +222,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text3">2</text></g><g
-         transform="translate(196, 28)"
+         transform="translate(196,28)"
          class="key keypos-3"
          id="g4"><rect
            rx="6"
@@ -225,7 +237,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text4">3</text></g><g
-         transform="translate(252, 28)"
+         transform="translate(252,28)"
          class="key keypos-4"
          id="g5"><rect
            rx="6"
@@ -240,7 +252,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text5">4</text></g><g
-         transform="translate(308, 28)"
+         transform="translate(308,28)"
          class="key keypos-5"
          id="g6"><rect
            rx="6"
@@ -255,7 +267,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text6">5</text></g><g
-         transform="translate(595, 28)"
+         transform="translate(595,28)"
          class="key keypos-6"
          id="g7"><rect
            rx="6"
@@ -270,7 +282,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text7">6</text></g><g
-         transform="translate(651, 28)"
+         transform="translate(651,28)"
          class="key keypos-7"
          id="g8"><rect
            rx="6"
@@ -285,7 +297,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text8">7</text></g><g
-         transform="translate(707, 28)"
+         transform="translate(707,28)"
          class="key keypos-8"
          id="g9"><rect
            rx="6"
@@ -300,7 +312,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text9">8</text></g><g
-         transform="translate(763, 28)"
+         transform="translate(763,28)"
          class="key keypos-9"
          id="g10"><rect
            rx="6"
@@ -315,7 +327,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text10">9</text></g><g
-         transform="translate(819, 28)"
+         transform="translate(819,28)"
          class="key keypos-10"
          id="g11"><rect
            rx="6"
@@ -330,7 +342,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text11">0</text></g><g
-         transform="translate(875, 28)"
+         transform="translate(875,28)"
          class="key keypos-11"
          id="g12"><rect
            rx="6"
@@ -345,7 +357,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text12">=</text></g><g
-         transform="translate(28, 84)"
+         transform="translate(28,84)"
          class="key keypos-12"
          id="g13"><rect
            rx="6"
@@ -360,7 +372,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text13">TAB</text></g><g
-         transform="translate(84, 84)"
+         transform="translate(84,84)"
          class="key keypos-13"
          id="g14"><rect
            rx="6"
@@ -375,7 +387,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text14">Q</text></g><g
-         transform="translate(140, 84)"
+         transform="translate(140,84)"
          class="key keypos-14"
          id="g15"><rect
            rx="6"
@@ -390,7 +402,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text15">W</text></g><g
-         transform="translate(196, 84)"
+         transform="translate(196,84)"
          class="key keypos-15"
          id="g16"><rect
            rx="6"
@@ -405,7 +417,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text16">E</text></g><g
-         transform="translate(252, 84)"
+         transform="translate(252,84)"
          class="key keypos-16"
          id="g17"><rect
            rx="6"
@@ -420,7 +432,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text17">R</text></g><g
-         transform="translate(308, 84)"
+         transform="translate(308,84)"
          class="key keypos-17"
          id="g18"><rect
            rx="6"
@@ -435,7 +447,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text18">T</text></g><g
-         transform="translate(595, 84)"
+         transform="translate(595,84)"
          class="key keypos-18"
          id="g19"><rect
            rx="6"
@@ -450,7 +462,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text19">Y</text></g><g
-         transform="translate(651, 84)"
+         transform="translate(651,84)"
          class="key keypos-19"
          id="g20"><rect
            rx="6"
@@ -465,7 +477,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text20">U</text></g><g
-         transform="translate(707, 84)"
+         transform="translate(707,84)"
          class="key keypos-20"
          id="g21"><rect
            rx="6"
@@ -480,7 +492,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text21">I</text></g><g
-         transform="translate(763, 84)"
+         transform="translate(763,84)"
          class="key keypos-21"
          id="g22"><rect
            rx="6"
@@ -495,7 +507,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text22">O</text></g><g
-         transform="translate(819, 84)"
+         transform="translate(819,84)"
          class="key keypos-22"
          id="g23"><rect
            rx="6"
@@ -510,7 +522,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text23">P</text></g><g
-         transform="translate(875, 84)"
+         transform="translate(875,84)"
          class="key keypos-23"
          id="g24"><rect
            rx="6"
@@ -525,7 +537,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text24">'</text></g><g
-         transform="translate(28, 140)"
+         transform="translate(28,140)"
          class="key keypos-24"
          id="g25"><rect
            rx="6"
@@ -540,7 +552,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text25">LSHFT</text></g><g
-         transform="translate(84, 140)"
+         transform="translate(84,140)"
          class="key keypos-25"
          id="g26"><rect
            rx="6"
@@ -555,7 +567,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text26">A</text></g><g
-         transform="translate(140, 140)"
+         transform="translate(140,140)"
          class="key keypos-26"
          id="g27"><rect
            rx="6"
@@ -570,7 +582,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text27">S</text></g><g
-         transform="translate(196, 140)"
+         transform="translate(196,140)"
          class="key keypos-27"
          id="g28"><rect
            rx="6"
@@ -585,7 +597,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text28">D</text></g><g
-         transform="translate(252, 140)"
+         transform="translate(252,140)"
          class="key keypos-28"
          id="g29"><rect
            rx="6"
@@ -600,7 +612,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text29">F</text></g><g
-         transform="translate(308, 140)"
+         transform="translate(308,140)"
          class="key keypos-29"
          id="g30"><rect
            rx="6"
@@ -615,7 +627,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text30">G</text></g><g
-         transform="translate(595, 140)"
+         transform="translate(595,140)"
          class="key keypos-30"
          id="g31"><rect
            rx="6"
@@ -630,7 +642,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text31">H</text></g><g
-         transform="translate(651, 140)"
+         transform="translate(651,140)"
          class="key keypos-31"
          id="g32"><rect
            rx="6"
@@ -645,7 +657,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text32">J</text></g><g
-         transform="translate(707, 140)"
+         transform="translate(707,140)"
          class="key keypos-32"
          id="g33"><rect
            rx="6"
@@ -660,7 +672,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text33">K</text></g><g
-         transform="translate(763, 140)"
+         transform="translate(763,140)"
          class="key keypos-33"
          id="g34"><rect
            rx="6"
@@ -675,7 +687,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text34">L</text></g><g
-         transform="translate(819, 140)"
+         transform="translate(819,140)"
          class="key keypos-34"
          id="g35"><rect
            rx="6"
@@ -690,7 +702,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text35">;</text></g><g
-         transform="translate(875, 140)"
+         transform="translate(875,140)"
          class="key keypos-35"
          id="g36"><rect
            rx="6"
@@ -705,7 +717,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text36">BSPC</text></g><g
-         transform="translate(28, 196)"
+         transform="translate(28,196)"
          class="key keypos-36"
          id="g37"><rect
            rx="6"
@@ -720,7 +732,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text37">LCTRL</text></g><g
-         transform="translate(84, 196)"
+         transform="translate(84,196)"
          class="key keypos-37"
          id="g38"><rect
            rx="6"
@@ -735,7 +747,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text38">Z</text></g><g
-         transform="translate(140, 196)"
+         transform="translate(140,196)"
          class="key keypos-38"
          id="g39"><rect
            rx="6"
@@ -750,7 +762,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text39">X</text></g><g
-         transform="translate(196, 196)"
+         transform="translate(196,196)"
          class="key keypos-39"
          id="g40"><rect
            rx="6"
@@ -765,7 +777,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text40">C</text></g><g
-         transform="translate(252, 196)"
+         transform="translate(252,196)"
          class="key keypos-40"
          id="g41"><rect
            rx="6"
@@ -780,7 +792,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text41">V</text></g><g
-         transform="translate(308, 196)"
+         transform="translate(308,196)"
          class="key keypos-41"
          id="g42"><rect
            rx="6"
@@ -795,7 +807,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text42">B</text></g><g
-         transform="translate(371, 196)"
+         transform="translate(371,196)"
          class="key keypos-42"
          id="g43"><rect
            rx="26"
@@ -811,7 +823,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text43">MUTE</text></g><g
-         transform="translate(532, 196)"
+         transform="translate(532,196)"
          class="key keypos-43"
          id="g45"><rect
            rx="26"
@@ -828,12 +840,12 @@ path.combo {
            class="key tap"
            id="text45"><tspan
              x="0"
-             dy="-0.6em"
+             dy="-0.60000002em"
              id="tspan44">RGB</tspan><tspan
              x="0"
              dy="1.2em"
              id="tspan45">TOG</tspan></text></g><g
-         transform="translate(595, 196)"
+         transform="translate(595,196)"
          class="key keypos-44"
          id="g46"><rect
            rx="6"
@@ -848,7 +860,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text46">N</text></g><g
-         transform="translate(651, 196)"
+         transform="translate(651,196)"
          class="key keypos-45"
          id="g47"><rect
            rx="6"
@@ -863,7 +875,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text47">M</text></g><g
-         transform="translate(707, 196)"
+         transform="translate(707,196)"
          class="key keypos-46"
          id="g48"><rect
            rx="6"
@@ -878,7 +890,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text48">,</text></g><g
-         transform="translate(763, 196)"
+         transform="translate(763,196)"
          class="key keypos-47"
          id="g49"><rect
            rx="6"
@@ -893,7 +905,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text49">.</text></g><g
-         transform="translate(819, 196)"
+         transform="translate(819,196)"
          class="key keypos-48"
          id="g50"><rect
            rx="6"
@@ -908,7 +920,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text50">/</text></g><g
-         transform="translate(875, 196)"
+         transform="translate(875,196)"
          class="key keypos-49"
          id="g51"><rect
            rx="6"
@@ -923,7 +935,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text51">DEL</text></g><g
-         transform="translate(132, 252)"
+         transform="translate(132,252)"
          class="key keypos-50"
          id="g52"><rect
            rx="6"
@@ -938,7 +950,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text52">LGUI</text></g><g
-         transform="translate(188, 252)"
+         transform="translate(188,252)"
          class="key keypos-51"
          id="g53"><rect
            rx="6"
@@ -953,7 +965,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text53">LALT</text></g><g
-         transform="translate(244, 252)"
+         transform="translate(244,252)"
          class="key keypos-52"
          id="g54"><rect
            rx="6"
@@ -968,7 +980,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text54">CAPS</text></g><g
-         transform="translate(305, 259) rotate(12.0)"
+         transform="rotate(12,-1079.6102,1580.4406)"
          class="key keypos-53"
          id="g55"><rect
            rx="6"
@@ -984,8 +996,9 @@ path.combo {
              x="0"
              y="0"
              class="key tap layer-activator"
-             id="text55">LOWER</text></a></g><g
-         transform="translate(365, 268) rotate(20.0)"
+             id="text55"
+             style="text-decoration:underline;text-decoration-line:underline">LOWER</text></a></g><g
+         transform="rotate(20,-577.45176,1169.0089)"
          class="key keypos-54"
          id="g56"><rect
            rx="6"
@@ -1000,7 +1013,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text56">RET</text></g><g
-         transform="translate(539, 268) rotate(-20.0)"
+         transform="rotate(-20,1029.4518,-1394.4105)"
          class="key keypos-55"
          id="g57"><rect
            rx="6"
@@ -1015,7 +1028,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text57">SPACE</text></g><g
-         transform="translate(599, 259) rotate(-12.0)"
+         transform="rotate(-12,1531.6102,-2720.0522)"
          class="key keypos-56"
          id="g58"><rect
            rx="6"
@@ -1031,8 +1044,9 @@ path.combo {
              x="0"
              y="0"
              class="key tap layer-activator"
-             id="text58">RAISE</text></a></g><g
-         transform="translate(660, 252)"
+             id="text58"
+             style="text-decoration:underline;text-decoration-line:underline">RAISE</text></a></g><g
+         transform="translate(660,252)"
          class="key keypos-57"
          id="g59"><rect
            rx="6"
@@ -1047,7 +1061,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text59">HOME</text></g><g
-         transform="translate(716, 252)"
+         transform="translate(716,252)"
          class="key keypos-58"
          id="g60"><rect
            rx="6"
@@ -1062,7 +1076,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text60">END</text></g><g
-         transform="translate(772, 252)"
+         transform="translate(772,252)"
          class="key keypos-59"
          id="g61"><rect
            rx="6"
@@ -1130,7 +1144,7 @@ path.combo {
              id="tspan47-6">PAGE</tspan><tspan
              sodipodi:role="line"
              x="0.14661352"
-             y="10.170245"
+             y="10.170244"
              style="text-align:center;text-anchor:middle;fill:#24221c"
              id="tspan102">UP/DN</tspan></text></g><g
          style="fill:#000000"
@@ -1140,16 +1154,16 @@ path.combo {
            id="path1-0"
            sodipodi:nodetypes="ccccccccccccccccccccccc"
            style="stroke-width:0.222742" /></g></g></g><g
-     transform="translate(30, 360)"
+     transform="translate(30,360)"
      class="layer-LOWER"
      id="g131"><text
        x="0"
        y="28"
        class="label"
        id="LOWER">LOWER:</text><g
-       transform="translate(0, 56)"
+       transform="translate(0,56)"
        id="g130"><g
-         transform="translate(28, 28)"
+         transform="translate(28,28)"
          class="key trans keypos-0"
          id="g64"><rect
            rx="6"
@@ -1165,7 +1179,7 @@ path.combo {
          class="key tap"
          id="text89-8"
          style="dominant-baseline:middle;text-anchor:middle">F12</text><g
-         transform="translate(84, 28)"
+         transform="translate(84,28)"
          class="key keypos-1"
          id="g65"><rect
            rx="6"
@@ -1180,7 +1194,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text64">F1</text></g><g
-         transform="translate(140, 28)"
+         transform="translate(140,28)"
          class="key keypos-2"
          id="g66"><rect
            rx="6"
@@ -1195,7 +1209,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text65">F2</text></g><g
-         transform="translate(196, 28)"
+         transform="translate(196,28)"
          class="key keypos-3"
          id="g67"><rect
            rx="6"
@@ -1210,7 +1224,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text66">F3</text></g><g
-         transform="translate(252, 28)"
+         transform="translate(252,28)"
          class="key keypos-4"
          id="g68"><rect
            rx="6"
@@ -1225,7 +1239,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text67">F4</text></g><g
-         transform="translate(308, 28)"
+         transform="translate(308,28)"
          class="key keypos-5"
          id="g69"><rect
            rx="6"
@@ -1240,7 +1254,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text68">F5</text></g><g
-         transform="translate(595, 28)"
+         transform="translate(595,28)"
          class="key keypos-6"
          id="g70"><rect
            rx="6"
@@ -1255,7 +1269,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text69">F6</text></g><g
-         transform="translate(651, 28)"
+         transform="translate(651,28)"
          class="key keypos-7"
          id="g71"><rect
            rx="6"
@@ -1270,7 +1284,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text70">F7</text></g><g
-         transform="translate(707, 28)"
+         transform="translate(707,28)"
          class="key keypos-8"
          id="g72"><rect
            rx="6"
@@ -1285,7 +1299,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text71">F8</text></g><g
-         transform="translate(763, 28)"
+         transform="translate(763,28)"
          class="key keypos-9"
          id="g73"><rect
            rx="6"
@@ -1300,7 +1314,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text72">F9</text></g><g
-         transform="translate(819, 28)"
+         transform="translate(819,28)"
          class="key keypos-10"
          id="g74"><rect
            rx="6"
@@ -1315,7 +1329,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text73">F10</text></g><g
-         transform="translate(875, 28)"
+         transform="translate(875,28)"
          class="key keypos-11"
          id="g75"><rect
            rx="6"
@@ -1330,7 +1344,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text74">F11</text></g><g
-         transform="translate(28, 84)"
+         transform="translate(28,84)"
          class="key trans keypos-12"
          id="g76"><rect
            rx="6"
@@ -1345,7 +1359,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text75">▽</text></g><g
-         transform="translate(84, 84)"
+         transform="translate(84,84)"
          class="key trans keypos-13"
          id="g77"><rect
            rx="6"
@@ -1360,7 +1374,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text76">▽</text></g><g
-         transform="translate(140, 84)"
+         transform="translate(140,84)"
          class="key keypos-14"
          id="g78"><rect
            rx="6"
@@ -1375,7 +1389,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text77">(</text></g><g
-         transform="translate(196, 84)"
+         transform="translate(196,84)"
          class="key keypos-15"
          id="g79"><rect
            rx="6"
@@ -1390,7 +1404,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text78">)</text></g><g
-         transform="translate(252, 84)"
+         transform="translate(252,84)"
          class="key keypos-16"
          id="g80"><rect
            rx="6"
@@ -1405,7 +1419,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text79">[</text></g><g
-         transform="translate(308, 84)"
+         transform="translate(308,84)"
          class="key keypos-17"
          id="g81"><rect
            rx="6"
@@ -1420,7 +1434,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text80">]</text></g><g
-         transform="translate(595, 84)"
+         transform="translate(595,84)"
          class="key keypos-18"
          id="g82"><rect
            rx="6"
@@ -1435,7 +1449,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text81">+</text></g><g
-         transform="translate(651, 84)"
+         transform="translate(651,84)"
          class="key keypos-19"
          id="g83"><rect
            rx="6"
@@ -1451,12 +1465,12 @@ path.combo {
            class="key tap"
            id="text83"><tspan
              x="0"
-             dy="-0.6em"
+             dy="-0.60000002em"
              id="tspan82">KP</tspan><tspan
              x="0"
              dy="1.2em"
              id="tspan83">7</tspan></text></g><g
-         transform="translate(707, 84)"
+         transform="translate(707,84)"
          class="key keypos-20"
          id="g85"><rect
            rx="6"
@@ -1472,12 +1486,12 @@ path.combo {
            class="key tap"
            id="text85"><tspan
              x="0"
-             dy="-0.6em"
+             dy="-0.60000002em"
              id="tspan84">KP</tspan><tspan
              x="0"
              dy="1.2em"
              id="tspan85">8</tspan></text></g><g
-         transform="translate(763, 84)"
+         transform="translate(763,84)"
          class="key keypos-21"
          id="g87"><rect
            rx="6"
@@ -1493,12 +1507,12 @@ path.combo {
            class="key tap"
            id="text87"><tspan
              x="0"
-             dy="-0.6em"
+             dy="-0.60000002em"
              id="tspan86">KP</tspan><tspan
              x="0"
              dy="1.2em"
              id="tspan87">9</tspan></text></g><g
-         transform="translate(819, 84)"
+         transform="translate(819,84)"
          class="key trans keypos-22"
          id="g88"><rect
            rx="6"
@@ -1509,7 +1523,7 @@ path.combo {
            height="52"
            class="key trans"
            id="rect87" /></g><g
-         transform="translate(875, 84)"
+         transform="translate(875,84)"
          class="key keypos-23"
          id="g89"><rect
            rx="6"
@@ -1520,7 +1534,7 @@ path.combo {
            height="52"
            class="key"
            id="rect88" /></g><g
-         transform="translate(28, 140)"
+         transform="translate(28,140)"
          class="key trans keypos-24"
          id="g90"><rect
            rx="6"
@@ -1535,7 +1549,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text90">▽</text></g><g
-         transform="translate(84, 140)"
+         transform="translate(84,140)"
          class="key trans keypos-25"
          id="g91"><rect
            rx="6"
@@ -1550,7 +1564,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text91">▽</text></g><g
-         transform="translate(140, 140)"
+         transform="translate(140,140)"
          class="key keypos-26"
          id="g92"><rect
            rx="6"
@@ -1565,7 +1579,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text92">&amp;</text></g><g
-         transform="translate(196, 140)"
+         transform="translate(196,140)"
          class="key keypos-27"
          id="g93"><rect
            rx="6"
@@ -1580,7 +1594,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text93">|</text></g><g
-         transform="translate(252, 140)"
+         transform="translate(252,140)"
          class="key keypos-28"
          id="g94"><rect
            rx="6"
@@ -1595,7 +1609,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text94">{</text></g><g
-         transform="translate(308, 140)"
+         transform="translate(308,140)"
          class="key keypos-29"
          id="g95"><rect
            rx="6"
@@ -1610,7 +1624,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text95">}</text></g><g
-         transform="translate(595, 140)"
+         transform="translate(595,140)"
          class="key keypos-30"
          id="g96"><rect
            rx="6"
@@ -1625,7 +1639,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text96">-</text></g><g
-         transform="translate(651, 140)"
+         transform="translate(651,140)"
          class="key keypos-31"
          id="g97"><rect
            rx="6"
@@ -1641,12 +1655,12 @@ path.combo {
            class="key tap"
            id="text97"><tspan
              x="0"
-             dy="-0.6em"
+             dy="-0.60000002em"
              id="tspan96">KP</tspan><tspan
              x="0"
              dy="1.2em"
              id="tspan97">4</tspan></text></g><g
-         transform="translate(707, 140)"
+         transform="translate(707,140)"
          class="key keypos-32"
          id="g99"><rect
            rx="6"
@@ -1662,12 +1676,12 @@ path.combo {
            class="key tap"
            id="text99"><tspan
              x="0"
-             dy="-0.6em"
+             dy="-0.60000002em"
              id="tspan98">KP</tspan><tspan
              x="0"
              dy="1.2em"
              id="tspan99">5</tspan></text></g><g
-         transform="translate(763, 140)"
+         transform="translate(763,140)"
          class="key keypos-33"
          id="g101"><rect
            rx="6"
@@ -1683,12 +1697,12 @@ path.combo {
            class="key tap"
            id="text101"><tspan
              x="0"
-             dy="-0.6em"
+             dy="-0.60000002em"
              id="tspan100">KP</tspan><tspan
              x="0"
              dy="1.2em"
              id="tspan101">6</tspan></text></g><g
-         transform="translate(819, 140)"
+         transform="translate(819,140)"
          class="key trans keypos-34"
          id="g102"><rect
            rx="6"
@@ -1704,7 +1718,7 @@ path.combo {
          class="key tap"
          id="text157-1"
          style="dominant-baseline:middle;text-anchor:middle">/</text><g
-         transform="translate(875, 140)"
+         transform="translate(875,140)"
          class="key trans keypos-35"
          id="g103"><rect
            rx="6"
@@ -1720,7 +1734,7 @@ path.combo {
          class="key tap"
          id="text157-1-7"
          style="dominant-baseline:middle;text-anchor:middle">CALC</text><g
-         transform="translate(28, 196)"
+         transform="translate(28,196)"
          class="key trans keypos-36"
          id="g104"><rect
            rx="6"
@@ -1735,7 +1749,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text104">▽</text></g><g
-         transform="translate(84, 196)"
+         transform="translate(84,196)"
          class="key trans keypos-37"
          id="g105"><rect
            rx="6"
@@ -1750,7 +1764,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text105">▽</text></g><g
-         transform="translate(140, 196)"
+         transform="translate(140,196)"
          class="key keypos-38"
          id="g106"><rect
            rx="6"
@@ -1765,7 +1779,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text106">/</text></g><g
-         transform="translate(196, 196)"
+         transform="translate(196,196)"
          class="key keypos-39"
          id="g107"><rect
            rx="6"
@@ -1780,7 +1794,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text107">\</text></g><g
-         transform="translate(252, 196)"
+         transform="translate(252,196)"
          class="key keypos-40"
          id="g108"><rect
            rx="6"
@@ -1795,7 +1809,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text108">&lt;</text></g><g
-         transform="translate(308, 196)"
+         transform="translate(308,196)"
          class="key keypos-41"
          id="g109"><rect
            rx="6"
@@ -1810,7 +1824,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text109">&gt;</text></g><g
-         transform="translate(371, 196)"
+         transform="translate(371,196)"
          class="key trans keypos-42"
          id="g110"><rect
            rx="26"
@@ -1826,7 +1840,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text110">▽</text></g><g
-         transform="translate(532, 196)"
+         transform="translate(532,196)"
          class="key trans keypos-43"
          id="g111"><rect
            rx="26"
@@ -1842,7 +1856,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text111">▽</text></g><g
-         transform="translate(595, 196)"
+         transform="translate(595,196)"
          class="key keypos-44"
          id="g112"><rect
            rx="6"
@@ -1857,7 +1871,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text112">_</text></g><g
-         transform="translate(651, 196)"
+         transform="translate(651,196)"
          class="key keypos-45"
          id="g113"><rect
            rx="6"
@@ -1873,12 +1887,12 @@ path.combo {
            class="key tap"
            id="text113"><tspan
              x="0"
-             dy="-0.6em"
+             dy="-0.60000002em"
              id="tspan112">KP</tspan><tspan
              x="0"
              dy="1.2em"
              id="tspan113">1</tspan></text></g><g
-         transform="translate(707, 196)"
+         transform="translate(707,196)"
          class="key keypos-46"
          id="g115"><rect
            rx="6"
@@ -1894,12 +1908,12 @@ path.combo {
            class="key tap"
            id="text115"><tspan
              x="0"
-             dy="-0.6em"
+             dy="-0.60000002em"
              id="tspan114">KP</tspan><tspan
              x="0"
              dy="1.2em"
              id="tspan115">2</tspan></text></g><g
-         transform="translate(763, 196)"
+         transform="translate(763,196)"
          class="key keypos-47"
          id="g117"><rect
            rx="6"
@@ -1915,12 +1929,12 @@ path.combo {
            class="key tap"
            id="text117"><tspan
              x="0"
-             dy="-0.6em"
+             dy="-0.60000002em"
              id="tspan116">KP</tspan><tspan
              x="0"
              dy="1.2em"
              id="tspan117">3</tspan></text></g><g
-         transform="translate(819, 196)"
+         transform="translate(819,196)"
          class="key trans keypos-48"
          id="g118"><rect
            rx="6"
@@ -1935,7 +1949,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text118">▽</text></g><g
-         transform="translate(875, 196)"
+         transform="translate(875,196)"
          class="key trans keypos-49"
          id="g119"><rect
            rx="6"
@@ -1950,7 +1964,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text119">▽</text></g><g
-         transform="translate(132, 252)"
+         transform="translate(132,252)"
          class="key trans keypos-50"
          id="g120"><rect
            rx="6"
@@ -1965,7 +1979,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text120">▽</text></g><g
-         transform="translate(188, 252)"
+         transform="translate(188,252)"
          class="key trans keypos-51"
          id="g121"><rect
            rx="6"
@@ -1980,7 +1994,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text121">▽</text></g><g
-         transform="translate(244, 252)"
+         transform="translate(244,252)"
          class="key trans keypos-52"
          id="g122"><rect
            rx="6"
@@ -2008,8 +2022,8 @@ path.combo {
            height="52"
            class="key held"
            id="rect122"
-           style="fill:#00112b;stroke:#00112b;stroke-opacity:1;fill-opacity:1" /></g><g
-         transform="translate(365, 268) rotate(20.0)"
+           style="fill:#00112b;fill-opacity:1;stroke:#00112b;stroke-opacity:1" /></g><g
+         transform="rotate(20,-577.45176,1169.0089)"
          class="key trans keypos-54"
          id="g124"><rect
            rx="6"
@@ -2024,7 +2038,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text123">▽</text></g><g
-         transform="translate(539, 268) rotate(-20.0)"
+         transform="rotate(-20,1029.4518,-1394.4105)"
          class="key keypos-55"
          id="g125"><rect
            rx="6"
@@ -2039,7 +2053,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text124">=</text></g><g
-         transform="translate(599, 259) rotate(-12.0)"
+         transform="rotate(-12,1531.6102,-2720.0522)"
          class="key trans keypos-56"
          id="g126"><rect
            rx="6"
@@ -2054,7 +2068,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text125">▽</text></g><g
-         transform="translate(660, 252)"
+         transform="translate(660,252)"
          class="key trans keypos-57"
          id="g127"><rect
            rx="6"
@@ -2069,7 +2083,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text126">▽</text></g><g
-         transform="translate(716, 252)"
+         transform="translate(716,252)"
          class="key keypos-58"
          id="g128"><rect
            rx="6"
@@ -2085,12 +2099,12 @@ path.combo {
            class="key tap"
            id="text128"><tspan
              x="0"
-             dy="-0.6em"
+             dy="-0.60000002em"
              id="tspan127">KP</tspan><tspan
              x="0"
              dy="1.2em"
              id="tspan128">0</tspan></text></g><g
-         transform="translate(772, 252)"
+         transform="translate(772,252)"
          class="key trans keypos-59"
          id="g129"><rect
            rx="6"
@@ -2136,16 +2150,16 @@ path.combo {
        id="tspan2"
        x="849.02051"
        y="501.03564">X</tspan></text><g
-     transform="translate(30, 719)"
+     transform="translate(30,719)"
      class="layer-RAISE"
      id="g198"><text
        x="0"
        y="28"
        class="label"
        id="RAISE">RAISE:</text><g
-       transform="translate(0, 56)"
+       transform="translate(0,56)"
        id="g197"><g
-         transform="translate(28, 28)"
+         transform="translate(28,28)"
          class="key keypos-0"
          id="g132"><rect
            rx="6"
@@ -2164,7 +2178,7 @@ path.combo {
              x="-0.038737282"
              id="tspan132"
              style="font-size:9.33333px;text-align:center;text-anchor:middle">CLEAR</tspan></text></g><g
-         transform="translate(84, 28)"
+         transform="translate(84,28)"
          class="key keypos-1"
          id="g134"><rect
            rx="6"
@@ -2178,8 +2192,8 @@ path.combo {
            x="0"
            y="24"
            class="key hold"
-           id="text134">0</text></g><g
-         transform="translate(140, 28)"
+           id="text134">1</text></g><g
+         transform="translate(140,28)"
          class="key keypos-2"
          id="g136"><rect
            rx="6"
@@ -2193,7 +2207,7 @@ path.combo {
            x="0"
            y="24"
            class="key hold"
-           id="text136">1</text><rect
+           id="text136">2</text><rect
            rx="6"
            ry="6"
            x="30.309944"
@@ -2207,8 +2221,8 @@ path.combo {
            y="23.697144"
            class="key hold"
            id="text136-1"
-           style="font-size:11px;dominant-baseline:auto;text-anchor:middle">2</text></g><g
-         transform="translate(252, 28)"
+           style="font-size:11px;dominant-baseline:auto;text-anchor:middle">3</text></g><g
+         transform="translate(252,28)"
          class="key keypos-4"
          id="g140"><rect
            rx="6"
@@ -2222,8 +2236,8 @@ path.combo {
            x="0"
            y="24"
            class="key hold"
-           id="text140">3</text></g><g
-         transform="translate(308, 28)"
+           id="text140">4</text></g><g
+         transform="translate(308,28)"
          class="key keypos-5"
          id="g142"><rect
            rx="6"
@@ -2237,8 +2251,8 @@ path.combo {
            x="0"
            y="24"
            class="key hold"
-           id="text142">4</text></g><g
-         transform="translate(595, 28)"
+           id="text142">5</text></g><g
+         transform="translate(595,28)"
          class="key trans keypos-6"
          id="g143"><rect
            rx="6"
@@ -2253,7 +2267,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text143">▽</text></g><g
-         transform="translate(651, 28)"
+         transform="translate(651,28)"
          class="key trans keypos-7"
          id="g144"><rect
            rx="6"
@@ -2268,7 +2282,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text144">▽</text></g><g
-         transform="translate(707, 28)"
+         transform="translate(707,28)"
          class="key trans keypos-8"
          id="g145"><rect
            rx="6"
@@ -2283,7 +2297,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text145">▽</text></g><g
-         transform="translate(763, 28)"
+         transform="translate(763,28)"
          class="key trans keypos-9"
          id="g146"><rect
            rx="6"
@@ -2298,7 +2312,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text146">▽</text></g><g
-         transform="translate(819, 28)"
+         transform="translate(819,28)"
          class="key trans keypos-10"
          id="g147"><rect
            rx="6"
@@ -2313,7 +2327,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text147">▽</text></g><g
-         transform="translate(875, 28)"
+         transform="translate(875,28)"
          class="key trans keypos-11"
          id="g148"><rect
            rx="6"
@@ -2328,7 +2342,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text148">▽</text></g><g
-         transform="translate(28, 84)"
+         transform="translate(28,84)"
          class="key trans keypos-12"
          id="g149"><rect
            rx="6"
@@ -2343,7 +2357,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text149">▽</text></g><g
-         transform="translate(84, 84)"
+         transform="translate(84,84)"
          class="key trans keypos-13"
          id="g150"><rect
            rx="6"
@@ -2358,7 +2372,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text150">▽</text></g><g
-         transform="translate(140, 84)"
+         transform="translate(140,84)"
          class="key trans keypos-14"
          id="g151"><rect
            rx="6"
@@ -2373,7 +2387,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text151">▽</text></g><g
-         transform="translate(196, 84)"
+         transform="translate(196,84)"
          class="key trans keypos-15"
          id="g152"><rect
            rx="6"
@@ -2388,7 +2402,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text152">▽</text></g><g
-         transform="translate(252, 84)"
+         transform="translate(252,84)"
          class="key keypos-16"
          id="g153"><rect
            rx="6"
@@ -2403,7 +2417,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text153">!</text></g><g
-         transform="translate(308, 84)"
+         transform="translate(308,84)"
          class="key keypos-17"
          id="g154"><rect
            rx="6"
@@ -2418,7 +2432,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text154">@</text></g><g
-         transform="translate(595, 84)"
+         transform="translate(595,84)"
          class="key trans keypos-18"
          id="g155"><rect
            rx="6"
@@ -2433,7 +2447,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text155">▽</text></g><g
-         transform="translate(651, 84)"
+         transform="translate(651,84)"
          class="key trans keypos-19"
          id="g156"><rect
            rx="6"
@@ -2448,7 +2462,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text156">▽</text></g><g
-         transform="translate(707, 84)"
+         transform="translate(707,84)"
          class="key keypos-20"
          id="g157"><rect
            rx="6"
@@ -2463,7 +2477,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text157">UP</text></g><g
-         transform="translate(763, 84)"
+         transform="translate(763,84)"
          class="key trans keypos-21"
          id="g158"><rect
            rx="6"
@@ -2478,7 +2492,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text158">▽</text></g><g
-         transform="translate(819, 84)"
+         transform="translate(819,84)"
          class="key trans keypos-22"
          id="g159"><rect
            rx="6"
@@ -2493,7 +2507,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text159">▽</text></g><g
-         transform="translate(875, 84)"
+         transform="translate(875,84)"
          class="key trans keypos-23"
          id="g160"><rect
            rx="6"
@@ -2508,7 +2522,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text160">▽</text></g><g
-         transform="translate(28, 140)"
+         transform="translate(28,140)"
          class="key trans keypos-24"
          id="g161"><rect
            rx="6"
@@ -2523,7 +2537,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text161">▽</text></g><g
-         transform="translate(84, 140)"
+         transform="translate(84,140)"
          class="key trans keypos-25"
          id="g162"><rect
            rx="6"
@@ -2538,7 +2552,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text162">▽</text></g><g
-         transform="translate(140, 140)"
+         transform="translate(140,140)"
          class="key trans keypos-26"
          id="g163"><rect
            rx="6"
@@ -2553,7 +2567,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text163">▽</text></g><g
-         transform="translate(196, 140)"
+         transform="translate(196,140)"
          class="key trans keypos-27"
          id="g164"><rect
            rx="6"
@@ -2568,7 +2582,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text164">▽</text></g><g
-         transform="translate(252, 140)"
+         transform="translate(252,140)"
          class="key keypos-28"
          id="g165"><rect
            rx="6"
@@ -2583,7 +2597,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text165">#</text></g><g
-         transform="translate(308, 140)"
+         transform="translate(308,140)"
          class="key keypos-29"
          id="g166"><rect
            rx="6"
@@ -2598,7 +2612,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text166">$</text></g><g
-         transform="translate(595, 140)"
+         transform="translate(595,140)"
          class="key trans keypos-30"
          id="g167"><rect
            rx="6"
@@ -2613,7 +2627,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text167">▽</text></g><g
-         transform="translate(651, 140)"
+         transform="translate(651,140)"
          class="key keypos-31"
          id="g168"><rect
            rx="6"
@@ -2628,7 +2642,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text168">LEFT</text></g><g
-         transform="translate(707, 140)"
+         transform="translate(707,140)"
          class="key keypos-32"
          id="g169"><rect
            rx="6"
@@ -2643,7 +2657,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text169">DOWN</text></g><g
-         transform="translate(763, 140)"
+         transform="translate(763,140)"
          class="key keypos-33"
          id="g170"><rect
            rx="6"
@@ -2658,7 +2672,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text170">RIGHT</text></g><g
-         transform="translate(819, 140)"
+         transform="translate(819,140)"
          class="key trans keypos-34"
          id="g171"><rect
            rx="6"
@@ -2673,7 +2687,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text171">▽</text></g><g
-         transform="translate(875, 140)"
+         transform="translate(875,140)"
          class="key trans keypos-35"
          id="g172"><rect
            rx="6"
@@ -2688,7 +2702,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text172">▽</text></g><g
-         transform="translate(28, 196)"
+         transform="translate(28,196)"
          class="key trans keypos-36"
          id="g173"><rect
            rx="6"
@@ -2703,7 +2717,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text173">▽</text></g><g
-         transform="translate(84, 196)"
+         transform="translate(84,196)"
          class="key trans keypos-37"
          id="g174"><rect
            rx="6"
@@ -2718,7 +2732,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text174">▽</text></g><g
-         transform="translate(140, 196)"
+         transform="translate(140,196)"
          class="key trans keypos-38"
          id="g175"><rect
            rx="6"
@@ -2733,7 +2747,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text175">▽</text></g><g
-         transform="translate(196, 196)"
+         transform="translate(196,196)"
          class="key trans keypos-39"
          id="g176"><rect
            rx="6"
@@ -2748,7 +2762,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text176">▽</text></g><g
-         transform="translate(252, 196)"
+         transform="translate(252,196)"
          class="key keypos-40"
          id="g177"><rect
            rx="6"
@@ -2763,7 +2777,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text177">%</text></g><g
-         transform="translate(308, 196)"
+         transform="translate(308,196)"
          class="key keypos-41"
          id="g178"><rect
            rx="6"
@@ -2778,7 +2792,7 @@ path.combo {
            y="0"
            class="key tap"
            id="text178">*</text></g><g
-         transform="translate(371, 196)"
+         transform="translate(371,196)"
          class="key trans keypos-42"
          id="g179"><rect
            rx="26"
@@ -2794,7 +2808,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text179">▽</text></g><g
-         transform="translate(532, 196)"
+         transform="translate(532,196)"
          class="key keypos-43"
          id="g180"><rect
            rx="26"
@@ -2811,12 +2825,12 @@ path.combo {
            class="key tap"
            id="text180"><tspan
              x="0"
-             dy="-0.6em"
+             dy="-0.60000002em"
              id="tspan179">RGB</tspan><tspan
              x="0"
              dy="1.2em"
              id="tspan180">EFF</tspan></text></g><g
-         transform="translate(595, 196)"
+         transform="translate(595,196)"
          class="key trans keypos-44"
          id="g181"><rect
            rx="6"
@@ -2831,7 +2845,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text181">▽</text></g><g
-         transform="translate(651, 196)"
+         transform="translate(651,196)"
          class="key trans keypos-45"
          id="g182"><rect
            rx="6"
@@ -2846,7 +2860,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text182">▽</text></g><g
-         transform="translate(707, 196)"
+         transform="translate(707,196)"
          class="key trans keypos-46"
          id="g183"><rect
            rx="6"
@@ -2861,7 +2875,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text183">▽</text></g><g
-         transform="translate(763, 196)"
+         transform="translate(763,196)"
          class="key trans keypos-47"
          id="g184"><rect
            rx="6"
@@ -2876,7 +2890,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text184">▽</text></g><g
-         transform="translate(819, 196)"
+         transform="translate(819,196)"
          class="key trans keypos-48"
          id="g185"><rect
            rx="6"
@@ -2891,7 +2905,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text185">▽</text></g><g
-         transform="translate(875, 196)"
+         transform="translate(875,196)"
          class="key trans keypos-49"
          id="g186"><rect
            rx="6"
@@ -2906,7 +2920,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text186">▽</text></g><g
-         transform="translate(132, 252)"
+         transform="translate(132,252)"
          class="key trans keypos-50"
          id="g187"><rect
            rx="6"
@@ -2921,7 +2935,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text187">▽</text></g><g
-         transform="translate(188, 252)"
+         transform="translate(188,252)"
          class="key trans keypos-51"
          id="g188"><rect
            rx="6"
@@ -2936,7 +2950,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text188">▽</text></g><g
-         transform="translate(244, 252)"
+         transform="translate(244,252)"
          class="key trans keypos-52"
          id="g189"><rect
            rx="6"
@@ -2951,7 +2965,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text189">▽</text></g><g
-         transform="translate(305, 259) rotate(12.0)"
+         transform="rotate(12,-1079.6102,1580.4406)"
          class="key trans keypos-53"
          id="g190"><rect
            rx="6"
@@ -2966,7 +2980,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text190">▽</text></g><g
-         transform="translate(365, 268) rotate(20.0)"
+         transform="rotate(20,-577.45176,1169.0089)"
          class="key trans keypos-54"
          id="g191"><rect
            rx="6"
@@ -2981,7 +2995,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text191">▽</text></g><g
-         transform="translate(539, 268) rotate(-20.0)"
+         transform="rotate(-20,1029.4518,-1394.4105)"
          class="key trans keypos-55"
          id="g192"><rect
            rx="6"
@@ -2996,7 +3010,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text192">▽</text></g><g
-         transform="translate(599, 259) rotate(-12.0)"
+         transform="rotate(-12,1531.6102,-2720.0522)"
          class="key held keypos-56"
          id="g193"
          style="fill:#00112b"><rect
@@ -3009,7 +3023,7 @@ path.combo {
            class="key held"
            id="rect192"
            style="fill:#00112b;stroke:#00112b;stroke-opacity:1" /></g><g
-         transform="translate(660, 252)"
+         transform="translate(660,252)"
          class="key trans keypos-57"
          id="g194"><rect
            rx="6"
@@ -3024,7 +3038,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text193">▽</text></g><g
-         transform="translate(716, 252)"
+         transform="translate(716,252)"
          class="key trans keypos-58"
          id="g195"><rect
            rx="6"
@@ -3039,7 +3053,7 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text194">▽</text></g><g
-         transform="translate(772, 252)"
+         transform="translate(772,252)"
          class="key trans keypos-59"
          id="g196"><rect
            rx="6"
@@ -3054,16 +3068,16 @@ path.combo {
            y="0"
            class="key trans tap"
            id="text195">▽</text></g></g></g><g
-     transform="translate(30, 1079)"
+     transform="translate(30,1079)"
      class="layer-ADJUST"
      id="g266"><text
        x="0"
        y="28"
        class="label"
        id="ADJUST">ADJUST:</text><g
-       transform="translate(0, 56)"
+       transform="translate(0,56)"
        id="g265"><g
-         transform="translate(28, 28)"
+         transform="translate(28,28)"
          class="key keypos-0"
          id="g199"><rect
            rx="6"
@@ -3074,7 +3088,7 @@ path.combo {
            height="52"
            class="key"
            id="rect198" /></g><g
-         transform="translate(84, 28)"
+         transform="translate(84,28)"
          class="key keypos-1"
          id="g200"><rect
            rx="6"
@@ -3085,7 +3099,7 @@ path.combo {
            height="52"
            class="key"
            id="rect199" /></g><g
-         transform="translate(140, 28)"
+         transform="translate(140,28)"
          class="key keypos-2"
          id="g202"><rect
            rx="6"
@@ -3096,7 +3110,7 @@ path.combo {
            height="52"
            class="key"
            id="rect200" /></g><g
-         transform="translate(196, 28)"
+         transform="translate(196,28)"
          class="key keypos-3"
          id="g204"><rect
            rx="6"
@@ -3107,7 +3121,7 @@ path.combo {
            height="52"
            class="key"
            id="rect202" /></g><g
-         transform="translate(252, 28)"
+         transform="translate(252,28)"
          class="key keypos-4"
          id="g206"><rect
            rx="6"
@@ -3137,7 +3151,7 @@ path.combo {
              x="-0.27018124"
              y="9.324585"
              style="font-size:13.3333px;line-height:0.7">BLOADER</tspan></text></g><g
-         transform="translate(308, 28)"
+         transform="translate(308,28)"
          class="key keypos-5"
          id="g208"><rect
            rx="6"
@@ -3160,7 +3174,7 @@ path.combo {
              id="tspan120"
              x="-0.28710938"
              y="9.7241211">RESET</tspan></text></g><g
-         transform="translate(595, 28)"
+         transform="translate(595,28)"
          class="key keypos-6"
          id="g210"><rect
            rx="6"
@@ -3184,7 +3198,7 @@ path.combo {
              x="-0.28710946"
              y="9.8702841"
              style="font-size:13.3333px">RESET</tspan></text></g><g
-         transform="translate(651, 28)"
+         transform="translate(651,28)"
          class="key keypos-7"
          id="g212"><rect
            rx="6"
@@ -3206,9 +3220,9 @@ path.combo {
              sodipodi:role="line"
              id="tspan118"
              x="-0.27018124"
-             y="9.870285"
+             y="9.8702841"
              style="font-size:13.3333px">BLOADER</tspan></text></g><g
-         transform="translate(707, 28)"
+         transform="translate(707,28)"
          class="key keypos-8"
          id="g213"><rect
            rx="6"
@@ -3219,7 +3233,7 @@ path.combo {
            height="52"
            class="key"
            id="rect212" /></g><g
-         transform="translate(763, 28)"
+         transform="translate(763,28)"
          class="key keypos-9"
          id="g214"><rect
            rx="6"
@@ -3230,7 +3244,7 @@ path.combo {
            height="52"
            class="key"
            id="rect213" /></g><g
-         transform="translate(819, 28)"
+         transform="translate(819,28)"
          class="key keypos-10"
          id="g215"><rect
            rx="6"
@@ -3241,7 +3255,7 @@ path.combo {
            height="52"
            class="key"
            id="rect214" /></g><g
-         transform="translate(875, 28)"
+         transform="translate(875,28)"
          class="key keypos-11"
          id="g216"><rect
            rx="6"
@@ -3252,7 +3266,7 @@ path.combo {
            height="52"
            class="key"
            id="rect215" /></g><g
-         transform="translate(28, 84)"
+         transform="translate(28,84)"
          class="key keypos-12"
          id="g217"><rect
            rx="6"
@@ -3263,7 +3277,7 @@ path.combo {
            height="52"
            class="key"
            id="rect216" /></g><g
-         transform="translate(84, 84)"
+         transform="translate(84,84)"
          class="key keypos-13"
          id="g218"><rect
            rx="6"
@@ -3274,7 +3288,7 @@ path.combo {
            height="52"
            class="key"
            id="rect217" /></g><g
-         transform="translate(140, 84)"
+         transform="translate(140,84)"
          class="key keypos-14"
          id="g219"><rect
            rx="6"
@@ -3285,7 +3299,7 @@ path.combo {
            height="52"
            class="key"
            id="rect218" /></g><g
-         transform="translate(196, 84)"
+         transform="translate(196,84)"
          class="key keypos-15"
          id="g220"><rect
            rx="6"
@@ -3296,7 +3310,7 @@ path.combo {
            height="52"
            class="key"
            id="rect219" /></g><g
-         transform="translate(252, 84)"
+         transform="translate(252,84)"
          class="key keypos-16"
          id="g221"><rect
            rx="6"
@@ -3307,7 +3321,7 @@ path.combo {
            height="52"
            class="key"
            id="rect220" /></g><g
-         transform="translate(308, 84)"
+         transform="translate(308,84)"
          class="key keypos-17"
          id="g222"><rect
            rx="6"
@@ -3318,7 +3332,7 @@ path.combo {
            height="52"
            class="key"
            id="rect221" /></g><g
-         transform="translate(595, 84)"
+         transform="translate(595,84)"
          class="key keypos-18"
          id="g223"><rect
            rx="6"
@@ -3329,7 +3343,7 @@ path.combo {
            height="52"
            class="key"
            id="rect222" /></g><g
-         transform="translate(651, 84)"
+         transform="translate(651,84)"
          class="key keypos-19"
          id="g224"><rect
            rx="6"
@@ -3340,7 +3354,7 @@ path.combo {
            height="52"
            class="key"
            id="rect223" /></g><g
-         transform="translate(707, 84)"
+         transform="translate(707,84)"
          class="key keypos-20"
          id="g225"><rect
            rx="6"
@@ -3351,7 +3365,7 @@ path.combo {
            height="52"
            class="key"
            id="rect224" /></g><g
-         transform="translate(763, 84)"
+         transform="translate(763,84)"
          class="key keypos-21"
          id="g226"><rect
            rx="6"
@@ -3362,7 +3376,7 @@ path.combo {
            height="52"
            class="key"
            id="rect225" /></g><g
-         transform="translate(819, 84)"
+         transform="translate(819,84)"
          class="key keypos-22"
          id="g227"><rect
            rx="6"
@@ -3373,7 +3387,7 @@ path.combo {
            height="52"
            class="key"
            id="rect226" /></g><g
-         transform="translate(875, 84)"
+         transform="translate(875,84)"
          class="key keypos-23"
          id="g228"><rect
            rx="6"
@@ -3384,7 +3398,7 @@ path.combo {
            height="52"
            class="key"
            id="rect227" /></g><g
-         transform="translate(28, 140)"
+         transform="translate(28,140)"
          class="key keypos-24"
          id="g229"><rect
            rx="6"
@@ -3395,7 +3409,7 @@ path.combo {
            height="52"
            class="key"
            id="rect228" /></g><g
-         transform="translate(84, 140)"
+         transform="translate(84,140)"
          class="key keypos-25"
          id="g230"><rect
            rx="6"
@@ -3406,7 +3420,7 @@ path.combo {
            height="52"
            class="key"
            id="rect229" /></g><g
-         transform="translate(140, 140)"
+         transform="translate(140,140)"
          class="key keypos-26"
          id="g231"><rect
            rx="6"
@@ -3417,7 +3431,7 @@ path.combo {
            height="52"
            class="key"
            id="rect230" /></g><g
-         transform="translate(196, 140)"
+         transform="translate(196,140)"
          class="key keypos-27"
          id="g232"><rect
            rx="6"
@@ -3428,7 +3442,7 @@ path.combo {
            height="52"
            class="key"
            id="rect231" /></g><g
-         transform="translate(252, 140)"
+         transform="translate(252,140)"
          class="key keypos-28"
          id="g233"><rect
            rx="6"
@@ -3439,7 +3453,7 @@ path.combo {
            height="52"
            class="key"
            id="rect232" /></g><g
-         transform="translate(308, 140)"
+         transform="translate(308,140)"
          class="key keypos-29"
          id="g234"><rect
            rx="6"
@@ -3450,7 +3464,7 @@ path.combo {
            height="52"
            class="key"
            id="rect233" /></g><g
-         transform="translate(595, 140)"
+         transform="translate(595,140)"
          class="key keypos-30"
          id="g235"><rect
            rx="6"
@@ -3461,7 +3475,7 @@ path.combo {
            height="52"
            class="key"
            id="rect234" /></g><g
-         transform="translate(651, 140)"
+         transform="translate(651,140)"
          class="key keypos-31"
          id="g236"><rect
            rx="6"
@@ -3472,7 +3486,7 @@ path.combo {
            height="52"
            class="key"
            id="rect235" /></g><g
-         transform="translate(707, 140)"
+         transform="translate(707,140)"
          class="key keypos-32"
          id="g237"><rect
            rx="6"
@@ -3483,7 +3497,7 @@ path.combo {
            height="52"
            class="key"
            id="rect236" /></g><g
-         transform="translate(763, 140)"
+         transform="translate(763,140)"
          class="key keypos-33"
          id="g238"><rect
            rx="6"
@@ -3494,7 +3508,7 @@ path.combo {
            height="52"
            class="key"
            id="rect237" /></g><g
-         transform="translate(819, 140)"
+         transform="translate(819,140)"
          class="key keypos-34"
          id="g239"><rect
            rx="6"
@@ -3505,7 +3519,7 @@ path.combo {
            height="52"
            class="key"
            id="rect238" /></g><g
-         transform="translate(875, 140)"
+         transform="translate(875,140)"
          class="key keypos-35"
          id="g240"><rect
            rx="6"
@@ -3516,7 +3530,7 @@ path.combo {
            height="52"
            class="key"
            id="rect239" /></g><g
-         transform="translate(28, 196)"
+         transform="translate(28,196)"
          class="key keypos-36"
          id="g241"><rect
            rx="6"
@@ -3527,7 +3541,7 @@ path.combo {
            height="52"
            class="key"
            id="rect240" /></g><g
-         transform="translate(84, 196)"
+         transform="translate(84,196)"
          class="key keypos-37"
          id="g242"><rect
            rx="6"
@@ -3538,7 +3552,7 @@ path.combo {
            height="52"
            class="key"
            id="rect241" /></g><g
-         transform="translate(140, 196)"
+         transform="translate(140,196)"
          class="key keypos-38"
          id="g243"><rect
            rx="6"
@@ -3549,7 +3563,7 @@ path.combo {
            height="52"
            class="key"
            id="rect242" /></g><g
-         transform="translate(196, 196)"
+         transform="translate(196,196)"
          class="key keypos-39"
          id="g244"><rect
            rx="6"
@@ -3560,7 +3574,7 @@ path.combo {
            height="52"
            class="key"
            id="rect243" /></g><g
-         transform="translate(252, 196)"
+         transform="translate(252,196)"
          class="key keypos-40"
          id="g245"><rect
            rx="6"
@@ -3571,7 +3585,7 @@ path.combo {
            height="52"
            class="key"
            id="rect244" /></g><g
-         transform="translate(308, 196)"
+         transform="translate(308,196)"
          class="key keypos-41"
          id="g246"><rect
            rx="6"
@@ -3582,7 +3596,7 @@ path.combo {
            height="52"
            class="key"
            id="rect245" /></g><g
-         transform="translate(371, 196)"
+         transform="translate(371,196)"
          class="key keypos-42"
          id="g247"><rect
            rx="26"
@@ -3594,7 +3608,7 @@ path.combo {
            class="key"
            id="rect246"
            style="fill:#aaccff" /></g><g
-         transform="translate(532, 196)"
+         transform="translate(532,196)"
          class="key keypos-43"
          id="g248"
          style="fill:#d5f6ff;fill-opacity:1"><rect
@@ -3607,7 +3621,7 @@ path.combo {
            class="key"
            id="rect247"
            style="fill:#d5f6ff;fill-opacity:1" /></g><g
-         transform="translate(595, 196)"
+         transform="translate(595,196)"
          class="key keypos-44"
          id="g249"><rect
            rx="6"
@@ -3618,7 +3632,7 @@ path.combo {
            height="52"
            class="key"
            id="rect248" /></g><g
-         transform="translate(651, 196)"
+         transform="translate(651,196)"
          class="key keypos-45"
          id="g250"><rect
            rx="6"
@@ -3629,7 +3643,7 @@ path.combo {
            height="52"
            class="key"
            id="rect249" /></g><g
-         transform="translate(707, 196)"
+         transform="translate(707,196)"
          class="key keypos-46"
          id="g251"><rect
            rx="6"
@@ -3640,7 +3654,7 @@ path.combo {
            height="52"
            class="key"
            id="rect250" /></g><g
-         transform="translate(763, 196)"
+         transform="translate(763,196)"
          class="key keypos-47"
          id="g252"><rect
            rx="6"
@@ -3651,7 +3665,7 @@ path.combo {
            height="52"
            class="key"
            id="rect251" /></g><g
-         transform="translate(819, 196)"
+         transform="translate(819,196)"
          class="key keypos-48"
          id="g253"><rect
            rx="6"
@@ -3662,7 +3676,7 @@ path.combo {
            height="52"
            class="key"
            id="rect252" /></g><g
-         transform="translate(875, 196)"
+         transform="translate(875,196)"
          class="key keypos-49"
          id="g254"><rect
            rx="6"
@@ -3673,7 +3687,7 @@ path.combo {
            height="52"
            class="key"
            id="rect253" /></g><g
-         transform="translate(132, 252)"
+         transform="translate(132,252)"
          class="key keypos-50"
          id="g255"><rect
            rx="6"
@@ -3684,7 +3698,7 @@ path.combo {
            height="52"
            class="key"
            id="rect254" /></g><g
-         transform="translate(188, 252)"
+         transform="translate(188,252)"
          class="key keypos-51"
          id="g256"><rect
            rx="6"
@@ -3695,7 +3709,7 @@ path.combo {
            height="52"
            class="key"
            id="rect255" /></g><g
-         transform="translate(244, 252)"
+         transform="translate(244,252)"
          class="key keypos-52"
          id="g257"><rect
            rx="6"
@@ -3706,7 +3720,7 @@ path.combo {
            height="52"
            class="key"
            id="rect256" /></g><g
-         transform="translate(305, 259) rotate(12.0)"
+         transform="rotate(12,-1079.6102,1580.4406)"
          class="key held keypos-53"
          id="g258"
          style="fill:#00112b"><rect
@@ -3719,7 +3733,7 @@ path.combo {
            class="key held"
            id="rect257"
            style="fill:#00112b;stroke:#00112b;stroke-opacity:1" /></g><g
-         transform="translate(365, 268) rotate(20.0)"
+         transform="rotate(20,-577.45176,1169.0089)"
          class="key keypos-54"
          id="g259"><rect
            rx="6"
@@ -3730,7 +3744,7 @@ path.combo {
            height="52"
            class="key"
            id="rect258" /></g><g
-         transform="translate(539, 268) rotate(-20.0)"
+         transform="rotate(-20,1029.4518,-1394.4105)"
          class="key keypos-55"
          id="g260"><rect
            rx="6"
@@ -3741,7 +3755,7 @@ path.combo {
            height="52"
            class="key"
            id="rect259" /></g><g
-         transform="translate(599, 259) rotate(-12.0)"
+         transform="rotate(-12,1531.6102,-2720.0522)"
          class="key held keypos-56"
          id="g261"
          style="fill:#280b17"><rect
@@ -3754,7 +3768,7 @@ path.combo {
            class="key held"
            id="rect260"
            style="fill:#00112b;stroke:#00112b;stroke-opacity:1" /></g><g
-         transform="translate(660, 252)"
+         transform="translate(660,252)"
          class="key keypos-57"
          id="g262"><rect
            rx="6"
@@ -3765,7 +3779,7 @@ path.combo {
            height="52"
            class="key"
            id="rect261" /></g><g
-         transform="translate(716, 252)"
+         transform="translate(716,252)"
          class="key keypos-58"
          id="g263"><rect
            rx="6"
@@ -3776,7 +3790,7 @@ path.combo {
            height="52"
            class="key"
            id="rect262" /></g><g
-         transform="translate(772, 252)"
+         transform="translate(772,252)"
          class="key keypos-59"
          id="g264"><rect
            rx="6"
@@ -3911,7 +3925,7 @@ path.combo {
        height="52"
        class="key"
        id="rect43-9-9-5"
-       style="fill:#d5f6ff;stroke:#c9cccf;stroke-width:1;fill-opacity:1" /><text
+       style="fill:#d5f6ff;fill-opacity:1;stroke:#c9cccf;stroke-width:1" /><text
        xml:space="preserve"
        style="text-align:start;writing-mode:lr-tb;direction:ltr;dominant-baseline:middle;text-anchor:start;fill:#ffd5f6;stroke-width:0.377953"
        x="-0.19379385"
@@ -3979,7 +3993,7 @@ path.combo {
        height="52"
        class="key"
        id="rect43-9-9-6"
-       style="fill:#d5f6ff;stroke:#c9cccf;stroke-width:1;fill-opacity:1" /><text
+       style="fill:#d5f6ff;fill-opacity:1;stroke:#c9cccf;stroke-width:1" /><text
        xml:space="preserve"
        style="text-align:start;writing-mode:lr-tb;direction:ltr;dominant-baseline:middle;text-anchor:start;fill:#ffd5f6;stroke-width:0.377953"
        x="0.13347304"
