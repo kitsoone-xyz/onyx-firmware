@@ -3,7 +3,6 @@
 #include <dt-bindings/zmk/bt.h>
 #include <dt-bindings/zmk/rgb.h>
 #include <dt-bindings/zmk/ext_power.h>
-#include <dt-bindings/zmk/modifiers.h>
 
 #define BASE 0
 #define LOWER 1
@@ -35,41 +34,6 @@
             #sensor-binding-cells = <0>;
             bindings = <&rgb_ug RGB_SAD>, <&rgb_ug RGB_SAI>;
         };
-
-        acute_a: acute_a {
-            compatible = "zmk,behavior-mod-morph";
-            #binding-cells = <0>;
-            bindings = <&AACUTE>, <&AUCAP>;
-            mods = <(MOD_LSFT|MOD_RSFT)>;
-        };
-
-        acute_e: acute_e {
-            compatible = "zmk,behavior-mod-morph";
-            #binding-cells = <0>;
-            bindings = <&EACUTE>, <&EUCAP>;
-            mods = <(MOD_LSFT|MOD_RSFT)>;
-        };
-
-        acute_i: acute_i {
-            compatible = "zmk,behavior-mod-morph";
-            #binding-cells = <0>;
-            bindings = <&IACUTE>, <&IACAP>;
-            mods = <(MOD_LSFT|MOD_RSFT)>;
-        };
-
-        acute_o: acute_o {
-            compatible = "zmk,behavior-mod-morph";
-            #binding-cells = <0>;
-            bindings = <&OACUTE>, <&OACAP>;
-            mods = <(MOD_LSFT|MOD_RSFT)>;
-        };
-
-        acute_u: acute_u {
-            compatible = "zmk,behavior-mod-morph";
-            #binding-cells = <0>;
-            bindings = <&UACUTE>, <&UCAP>;
-            mods = <(MOD_LSFT|MOD_RSFT)>;
-        };
     };
 
     macros {      
@@ -90,115 +54,6 @@
                 bindings = <&kp C_VOL_DN &kp C_VOL_DN>;
             };
 
-            NTIL: NTIL {
-                compatible = "zmk,behavior-macro";
-                #binding-cells = <0>;
-                bindings
-                    = <&macro_press &kp LALT>
-                    , <&macro_tap &kp KP_N1 &kp KP_N6 &kp KP_N4>
-                    , <&macro_release &kp LALT>
-                    ;
-            };
-
-            AACUTE: AACUTE {
-                compatible = "zmk,behavior-macro";
-                #binding-cells = <0>;
-                bindings
-                    = <&macro_press &kp LALT>
-                    , <&macro_tap &kp KP_N1 &kp KP_N6 &kp KP_N0>
-                    , <&macro_release &kp LALT>
-                    ;
-            };
-
-            EACUTE: EACUTE {
-                compatible = "zmk,behavior-macro";
-                #binding-cells = <0>;
-                bindings
-                    = <&macro_press &kp LALT>
-                    , <&macro_tap &kp KP_N1 &kp KP_N3 &kp KP_N0>
-                    , <&macro_release &kp LALT>
-                    ;
-            };
-
-            IACUTE: IACUTE {
-                compatible = "zmk,behavior-macro";
-                #binding-cells = <0>;
-                bindings
-                    = <&macro_press &kp LALT>
-                    , <&macro_tap &kp KP_N1 &kp KP_N6 &kp KP_N1>
-                    , <&macro_release &kp LALT>
-                    ;
-            };
-
-            OACUTE: OACUTE {
-                compatible = "zmk,behavior-macro";
-                #binding-cells = <0>;
-                bindings
-                    = <&macro_press &kp LALT>
-                    , <&macro_tap &kp KP_N1 &kp KP_N6 &kp KP_N2>
-                    , <&macro_release &kp LALT>
-                    ;
-            };
-
-            UACUTE: UACUTE {
-                compatible = "zmk,behavior-macro";
-                #binding-cells = <0>;
-                bindings
-                    = <&macro_press &kp LALT>
-                    , <&macro_tap &kp KP_N1 &kp KP_N6 &kp KP_N3>
-                    , <&macro_release &kp LALT>
-                    ;
-            };
-
-            AUCAP: AUCAP {
-                compatible = "zmk,behavior-macro";
-                #binding-cells = <0>;
-                bindings
-                    = <&macro_press &kp LALT>
-                    , <&macro_tap &kp KP_N1 &kp KP_N8 &kp KP_N1>
-                    , <&macro_release &kp LALT>
-                    ;
-            };
-
-            EUCAP: EUCAP {
-                compatible = "zmk,behavior-macro";
-                #binding-cells = <0>;
-                bindings
-                    = <&macro_press &kp LALT>
-                    , <&macro_tap &kp KP_N1 &kp KP_N4 &kp KP_N4>
-                    , <&macro_release &kp LALT>
-                    ;
-            };
-
-            IACAP: IACAP {
-                compatible = "zmk,behavior-macro";
-                #binding-cells = <0>;
-                bindings
-                    = <&macro_press &kp LALT>
-                    , <&macro_tap &kp KP_N2 &kp KP_N1 &kp KP_N4>
-                    , <&macro_release &kp LALT>
-                    ;
-            };
-
-            OACAP: OACAP {
-                compatible = "zmk,behavior-macro";
-                #binding-cells = <0>;
-                bindings
-                    = <&macro_press &kp LALT>
-                    , <&macro_tap &kp KP_N2 &kp KP_N2 &kp KP_N4>
-                    , <&macro_release &kp LALT>
-                    ;
-            };
-
-            UCAP: UCAP {
-                compatible = "zmk,behavior-macro";
-                #binding-cells = <0>;
-                bindings
-                    = <&macro_press &kp LALT>
-                    , <&macro_tap &kp KP_N2 &kp KP_N3 &kp KP_N3>
-                    , <&macro_release &kp LALT>
-                    ;
-            };
     };
     
 
@@ -293,9 +148,9 @@
 // ╭─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────╮                               ╭─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────╮
 // |             |             |             |             | L Bootloader|   L Reset   |                               |   R Reset   | R Bootloader|             |             |             |             |
 // ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤                               ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
-// |             |             |             |    é/É      |             |             |                               |             |    ú/Ú      |    í/Í      |    ó/Ó      |             |             |
+// |             |             |             |             |             |             |                               |             |             |             |             |             |             |
 // ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤                               ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
-// |             |    á/Á      |             |             |             |             |                               |             |             |             |             |             |             |
+// |             |             |             |             |             |             |                               |             |             |             |             |             |             |
 // ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┼─────────────┬─────────────╮    ╭────────────┼─────────────┼─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
 // |             |             |             |             |             |             |             |    |            |             |             |             |             |             |             |
 // ╰─────────────┴─────────────┼─────────────┼─────────────┼─────────────┼─────────────├─────────────┤    ├────────────┼─────────────┼─────────────┼─────────────┼─────────────┼─────────────┴─────────────╯
@@ -304,11 +159,11 @@
 
                         display-name = "ADJUST";
                         bindings = <
-            &none    &none    &none    &none     &bootloader  &sys_reset                                                 &sys_reset  &bootloader  &none    &none    &none  &none
-            &none    &none    &none    &acute_e  &none        &none                                                      &none       &acute_u     &acute_i  &acute_o  &none  &none
-            &none    &acute_a  &none   &none     &none        &none                                                      &none       &none        &none    &none    &none  &none
-            &none    &none    &none    &none     &none        &none      &none                                   &none   &none       &none        &none    &none    &none  &none
-                              &none    &none     &none        &none      &none                                   &none   &none       &none        &none    &none
+            &none  &none  &none  &none  &bootloader  &sys_reset                                                 &sys_reset   &bootloader   &none  &none  &none  &none
+            &none  &none  &none  &none  &none        &none                                                      &none        &none  &none  &none  &none  &none
+            &none  &none  &none  &none  &none        &none                                                      &none        &none  &none  &none  &none  &none
+            &none  &none  &none  &none  &none        &none      &none                                   &none   &none        &none  &none  &none  &none  &none
+                          &none  &none  &none        &none      &none                                   &none   &none        &none  &none  &none
                         >;
         };
     };
