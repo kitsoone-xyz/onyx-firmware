@@ -63,6 +63,56 @@
                     , <&macro_release &kp LALT>
                     ;
             };
+
+            AACUTE: AACUTE {
+                compatible = "zmk,behavior-macro";
+                #binding-cells = <0>;
+                bindings
+                    = <&macro_press &kp LALT>
+                    , <&macro_tap &kp KP_N1 &kp KP_N6 &kp KP_N0>
+                    , <&macro_release &kp LALT>
+                    ;
+            };
+
+            EACUTE: EACUTE {
+                compatible = "zmk,behavior-macro";
+                #binding-cells = <0>;
+                bindings
+                    = <&macro_press &kp LALT>
+                    , <&macro_tap &kp KP_N1 &kp KP_N3 &kp KP_N0>
+                    , <&macro_release &kp LALT>
+                    ;
+            };
+
+            IACUTE: IACUTE {
+                compatible = "zmk,behavior-macro";
+                #binding-cells = <0>;
+                bindings
+                    = <&macro_press &kp LALT>
+                    , <&macro_tap &kp KP_N1 &kp KP_N6 &kp KP_N1>
+                    , <&macro_release &kp LALT>
+                    ;
+            };
+
+            OACUTE: OACUTE {
+                compatible = "zmk,behavior-macro";
+                #binding-cells = <0>;
+                bindings
+                    = <&macro_press &kp LALT>
+                    , <&macro_tap &kp KP_N1 &kp KP_N6 &kp KP_N2>
+                    , <&macro_release &kp LALT>
+                    ;
+            };
+
+            UACUTE: UACUTE {
+                compatible = "zmk,behavior-macro";
+                #binding-cells = <0>;
+                bindings
+                    = <&macro_press &kp LALT>
+                    , <&macro_tap &kp KP_N1 &kp KP_N6 &kp KP_N3>
+                    , <&macro_release &kp LALT>
+                    ;
+            };
     };
     
 
@@ -157,9 +207,9 @@
 // ╭─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────╮                               ╭─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────╮
 // |             |             |             |             | L Bootloader|   L Reset   |                               |   R Reset   | R Bootloader|             |             |             |             |
 // ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤                               ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
-// |             |             |             |             |             |             |                               |             |             |             |             |             |             |
+// |             |             |             |      é      |             |             |                               |             |      ú      |      í      |      ó      |             |             |
 // ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤                               ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
-// |             |             |             |             |             |             |                               |             |             |             |             |             |             |
+// |             |      á      |             |             |             |             |                               |             |             |             |             |             |             |
 // ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┼─────────────┬─────────────╮    ╭────────────┼─────────────┼─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
 // |             |             |             |             |             |             |             |    |            |             |             |             |             |             |             |
 // ╰─────────────┴─────────────┼─────────────┼─────────────┼─────────────┼─────────────├─────────────┤    ├────────────┼─────────────┼─────────────┼─────────────┼─────────────┼─────────────┴─────────────╯
@@ -168,11 +218,11 @@
 
                         display-name = "ADJUST";
                         bindings = <
-            &none  &none  &none  &none  &bootloader  &sys_reset                                                 &sys_reset   &bootloader   &none  &none  &none  &none  
-            &none  &none  &none  &none  &none        &none                                                      &none        &none  &none  &none  &none  &none  
-            &none  &none  &none  &none  &none        &none                                                      &none        &none  &none  &none  &none  &none
-            &none  &none  &none  &none  &none        &none      &none                                   &none   &none        &none  &none  &none  &none  &none
-                          &none  &none  &none        &none      &none                                   &none   &none        &none  &none  &none 
+            &none    &none    &none    &none     &bootloader  &sys_reset                                                 &sys_reset  &bootloader  &none    &none    &none  &none
+            &none    &none    &none    &EACUTE   &none        &none                                                      &none       &UACUTE      &IACUTE  &OACUTE  &none  &none
+            &none    &AACUTE  &none    &none     &none        &none                                                      &none       &none        &none    &none    &none  &none
+            &none    &none    &none    &none     &none        &none      &none                                   &none   &none       &none        &none    &none    &none  &none
+                              &none    &none     &none        &none      &none                                   &none   &none       &none        &none    &none
                         >;
         };
     };
